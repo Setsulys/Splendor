@@ -1,0 +1,10 @@
+Catherine_de'_Medici : 0 : 3 : 3 : 3 : 0
+Elisabeth_Of_Austria : 3 : 3 : 0 : 0 : 3
+Isabella_I_Of_Castille : 4 : 0 : 0 : 0 : 4
+Niccolo_Machiavelli : 4 : 4 : 0 : 0 : 0
+Suleiman_The_Magnificent : 0 : 4 : 4 : 0 : 0
+Anne_Of_Brittany : 3 : 3 : 3 : 0 : 0
+Charles_V : 3 : 0 : 0 : 3 : 3
+Francis_I_Of_France : 0 : 0 : 3 : 3 : 3
+Henry_VII : 0 : 0 : 0 : 4 : 4
+Mary_Stuart : 0 : 0 : 4 : 0 : 4
